@@ -1,3 +1,4 @@
+alert("Max your volume first baby<3")
 $(document).ready(function () {
   var envelope = $("#envelope");
   var btn_open = $("#open");
