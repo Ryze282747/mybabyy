@@ -1,3 +1,4 @@
+alert("desktop mode ikaw baby hihi")
 /* Define more vibrant colors */
 const colors = [
 	"#ff6f91",
