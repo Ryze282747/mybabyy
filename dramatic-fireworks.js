@@ -1,5 +1,5 @@
-alert("desktop mode ikaw baby hihi")
 /* Define more vibrant colors */
+alert("Desktop mode ikaw baby hihi😙")
 const colors = [
 	"#ff6f91",
 	"#ff9671",
